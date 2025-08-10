@@ -1,3 +1,3 @@
 # LNTips
 
-This package does nothing. It's just for testing the [lnpm package manager](https://github.com/dylanbathurst/lnpm).
+This package does nothing. It's just for testing the [lnnpm package manager](https://github.com/dylanbathurst/lnnpm).
