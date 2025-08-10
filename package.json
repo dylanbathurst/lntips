@@ -1,0 +1,27 @@
+{
+  "name": "lntips",
+  "version": "1.0.0",
+  "description": "A test package for testing lnpm package manager",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "lnpm",
+    "lightning",
+    "tips"
+  ],
+  "author": "Dylan Bathurst <dylanbathurst@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylanbathurst/lntips"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "lightning": {
+    "address": "dylanbathurst@getalby.com",
+    "suggestedTip": {
+      "sats": 21,
+      "message": "Thanks for using lntips! Your tips help me maintain this package ⚡"
+    }
+  }
+}
