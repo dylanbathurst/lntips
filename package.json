@@ -1,11 +1,11 @@
 {
   "name": "lntips",
   "version": "1.0.0",
-  "description": "A test package for testing lnpm package manager",
+  "description": "A test package for testing lnnpm package manager",
   "main": "index.js",
   "scripts": {},
   "keywords": [
-    "lnpm",
+    "lnnpm",
     "lightning",
     "tips"
   ],
